@@ -7,7 +7,7 @@
 Some descriptive text here
 
 ## Screenshots
-![ScreenshotHW](HWScreenshot.png)
+![ScreenshotHW](./assets/images/hwscreenshot.png)
 
 
 
